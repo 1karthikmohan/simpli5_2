@@ -44,11 +44,11 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">+91 8147647126</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">123 Design Street, Creative City, CA 90210</span>
+                <span className="text-gray-300">Below Lens Hut, New Kantharaj Urs Rd, Kuvempu Nagara, Mysuru, Karnataka 570009</span>
               </div>
             </div>
           </div>
