@@ -91,7 +91,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
               >
                 <div className="relative overflow-hidden rounded-xl bg-gray-200 aspect-square mb-4">
                   <img
-                    src=src={item === 1 ? "/images/1/1.png" : item === 2 ? "/images/2/1.png" : "/images/3/1.png"}
+                    src={item === 1 ? "/images/1/1.png" : item === 2 ? "/images/2/1.png" : "/images/3/1.png"}
                     alt={`Featured project ${item}`}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                   />
