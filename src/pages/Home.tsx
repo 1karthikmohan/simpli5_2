@@ -100,10 +100,10 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
                   </div>
                 </div>
                 <h3 className="font-semibold text-gray-900 mb-2">
-                  {item === 1 ? 'Modern Living Space' : item === 2 ? 'Corporate Office Design' : 'Luxury Villa Interior'}
+                  {item === 1 ? 'Vihaara' : item === 2 ? 'Interior Design and Detailing of Spa' : 'Fine Art Campus'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  {item === 1 ? 'Contemporary design with clean lines' : item === 2 ? 'Professional workspace optimization' : 'Elegant and sophisticated interiors'}
+                  {item === 1 ? 'Living green, designed for tomorrow' : item === 2 ? 'Where wellness meets timeless design' : 'Bricks, greens, and spaces that inspire'}
                 </p>
               </div>
             ))}

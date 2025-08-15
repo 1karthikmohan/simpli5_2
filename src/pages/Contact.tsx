@@ -68,20 +68,20 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: 'Email',
-      details: 'hello@simpli5design.com',
+      details: 'ilasirish2001@gmail.com',
       subtitle: 'Send us an email anytime'
     },
     {
       icon: Phone,
       title: 'Phone',
-      details: '+1 (555) 123-4567',
+      details: '+91 8147647126',
       subtitle: 'Mon-Fri from 9am to 6pm'
     },
     {
       icon: MapPin,
       title: 'Office',
-      details: '123 Design Street',
-      subtitle: 'Creative City, CA 90210'
+      details: 'Below Lens Hut, Vijaya Bank Circle',
+      subtitle: 'New Kantharaj Urs Rd, Kuvempu Nagara, Mysuru, Karnataka 570009'
     }
   ];
 
