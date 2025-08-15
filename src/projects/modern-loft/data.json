@@ -1,17 +1,19 @@
 {
-  "title": "Modern Urban Loft",
-  "description": "A contemporary transformation of a 1920s warehouse into a stunning modern living space. This project showcases how industrial elements can be seamlessly integrated with modern design principles to create a warm, inviting home that celebrates both history and innovation.",
+  "title": "Fine Art Campus",
+  "description": "An academic campus designed around the concept of 'Bricks and Greens'. The project integrates courtyards as central interactive and climatic elements, while using distinct colored bricks for each department to establish identity. The campus balances education, accommodation, sports, and staff housing through a cohesive zoning approach.",
   "features": [
-    "Open-concept floor plan with 20ft ceilings",
-    "Exposed brick walls and steel beam details",
-    "Custom kitchen with waterfall marble countertops",
-    "Floor-to-ceiling windows maximizing natural light",
-    "Integrated smart home technology",
-    "Sustainable materials and energy-efficient systems"
+    "Concept of 'Bricks and Greens' with structures built around courtyards",
+    "Six departments each defined by unique colored brick facades",
+    "Courtyards for natural light, ventilation, and social interaction",
+    "Jaali walls for ornamental screening and airflow",
+    "Hip roof design for effective rain and heat management",
+    "Zoning includes education block, student accommodation, staff housing, and sports facilities",
+    "Integration of green spaces throughout campus layout",
+    "Clustered building arrangement to foster community interaction"
   ],
   "images": [
-    "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800"
+    "https://drive.google.com/file/d/1lB8BMCxfIQVWbuGaCi93GdolfYxOXfdP/view?usp=drive_link",
+    "https://drive.google.com/file/d/1aSE-zLvko9RA5_Gl-onosCPu0LCFGbFe/view?usp=drive_link",
+    "https://drive.google.com/file/d/1347dRU5rgmqgUm1O3omFMh-wOWpkR4_l/view?usp=drive_link"
   ]
 }
